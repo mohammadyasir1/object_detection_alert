@@ -1,1 +1,2 @@
-# object_detection_alert
+# Object detection alert
+IoT based application that detects the object and sends an alert to the user cell
