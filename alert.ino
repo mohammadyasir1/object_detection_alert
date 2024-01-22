@@ -33,8 +33,5 @@ void loop()
     //Blynk.email("mohammadyasirkmt@gmail.com", "Alert", "Object detected!");
     Serial.println("object detected!");
     delay(500);
-  }else{
-    Serial.println("object not detected!");
-    delay(500);
   }
 }
